@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ControllerMap>
+	<Controller uri="/people.do" class="controller.PeopleController" /> 
+	<Controller uri="/war.do" class="controller.WarController" /> 
+</ControllerMap>
